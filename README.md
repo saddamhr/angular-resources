@@ -10,4 +10,4 @@
 ## Small/Fundamental Projects
 
 ## Most Used NPM Packages
-- [Angular 10 tutorial](Material Carousel)
+- [Angular 10 tutorial](https://therichpost.com/angular-9-material-carousel-slider/)
