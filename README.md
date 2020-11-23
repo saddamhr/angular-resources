@@ -12,3 +12,4 @@
 ## Most Used NPM Packages
 - [Angular 10 tutorial](https://therichpost.com/angular-9-material-carousel-slider/)
 - [flex-layout](https://github.com/angular/flex-layout)
+- [Angular DataTables](https://l-lin.github.io/angular-datatables/#/basic/zero-config)
