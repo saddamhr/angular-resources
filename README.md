@@ -14,3 +14,4 @@
 - [flex-layout](https://github.com/angular/flex-layout)
 - [Angular DataTables](https://l-lin.github.io/angular-datatables/#/basic/zero-config)
 - [Material Carousel](https://www.npmjs.com/package/@ngbmodule/material-carousel)
+- [ngx-slider](https://www.npmjs.com/package/@angular-slider/ngx-slider)
