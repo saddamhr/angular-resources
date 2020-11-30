@@ -15,3 +15,5 @@
 - [Angular DataTables](https://l-lin.github.io/angular-datatables/#/basic/zero-config)
 - [Material Carousel](https://www.npmjs.com/package/@ngbmodule/material-carousel)
 - [ngx-slider](https://www.npmjs.com/package/@angular-slider/ngx-slider)
+- [ngx-pagination](https://www.npmjs.com/package/ngx-pagination)
+- [ngx-toastr](https://www.npmjs.com/package/ngx-toastr)
