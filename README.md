@@ -8,7 +8,7 @@
 
 ## Important Article
 - [Angular Virtual Scrolling](https://medium.com/front-end-weekly/how-to-use-virtual-scrolling-using-angular-7-cdk-9802110111fa)
-- [Angular Virtual Scrolling (Official)] (https://material.angular.io/cdk/scrolling/overview)
+- [Angular Virtual Scrolling (Official)](https://material.angular.io/cdk/scrolling/overview)
 
 ## Small/Fundamental Projects
 
