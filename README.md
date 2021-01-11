@@ -20,3 +20,4 @@
 - [ngx-slider](https://www.npmjs.com/package/@angular-slider/ngx-slider)
 - [ngx-pagination](https://www.npmjs.com/package/ngx-pagination)
 - [ngx-toastr](https://www.npmjs.com/package/ngx-toastr)
+- [ngx-gallery](https://www.npmjs.com/package/ngx-gallery?fbclid=IwAR137tHYsJ1x_m8LYO82eF7xQ4iEbXeJBFN1uEMxCLr0KTGBd8Cqg1YDjNE)
